@@ -1,4 +1,4 @@
-![imagen](notebook/img/sort-by-color.jpg)
+![books_sorted_by_color]((https://www.google.com/url?sa=i&url=https%3A%2F%2Fbullis.libguides.com%2Fc.php%3Fg%3D1232953%26p%3D9023252&psig=AOvVaw2gbPbF0kXNsiz4VfeXoyXt&ust=1728598226177000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCND4062ogokDFQAAAAAdAAAAABAE))
 # **Análisis del mercado literario**
 
 ### **Tema**
