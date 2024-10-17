@@ -35,6 +35,7 @@ def clean_dataset(url):
             print("tipo columna: ", df[column].dtype)
             df[column] = df[column].astype(str)
             df[column] = df[column].str.strip()
+            df[column] = df[column].str.lower()
     return df
 
 df = clean_dataset(url)
